@@ -2,12 +2,17 @@
 
 <div align="center">
 
-🌐 [View Live Page]()  
+🌐 [View Live Page](https://jquery-fetchusers.netlify.app/)  
 
 </div>
 
 This is a simple front-end practice project built with **HTML** and **jQuery** to fetch, display and manage user data from a public API.  
+
+<img width="1920" height="994" alt="hw1" src="https://github.com/user-attachments/assets/94eff771-7ef5-449e-824e-31a6bf862980" />
+
 It uses **Neo Brutalism** inspired design, all styles and fonts are injected dynamically with JavaScript.
+
+<img width="1898" height="352" alt="hw" src="https://github.com/user-attachments/assets/bf9b66e4-4f4d-4bfd-8e36-43ee43e9b564" />
 
 ## Features
 
