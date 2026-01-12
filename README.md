@@ -1,5 +1,5 @@
 <h1 align="center">jQuery | API Users</h1>
-
+<h6 align="center"> [This repository was created for the Insider & Testinium Tech Hub Developer Bootcamp assignment.]</h6>   
 <div align="center">
 
 🌐 [View Live Page](https://jquery-fetchusers.netlify.app/)  
@@ -37,7 +37,6 @@ It uses **Neo Brutalism** inspired design, all styles and fonts are injected dyn
 - CSS3 
 - jQuery (Fetch API, localStorage)
 
-
 ```
 HTML only includes:
 
@@ -49,11 +48,12 @@ HTML only includes:
 - Inspired by **Neo Brutalism:** bold outlines, solid color blocks, shadow offset.    
 - Fonts: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) for body text, [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) for headings.    
 
-
-<br>
-
-<b><em>Ruken ERPOLAT</em></b>
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Let’s connect:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-827a67?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/rukenerpolat)
 [![GitHub](https://img.shields.io/badge/-GitHub-827a67?style=flat&logo=github&logoColor=white)](https://github.com/rukenerpolat)
+
+Thank you for your visit! 🖖     
+<b><em>Ruken ERPOLAT</em></b> 
